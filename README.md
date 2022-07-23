@@ -1,5 +1,7 @@
 # Use just special characters without the shift key on the keyboard
-## you can use special keys on the keyboard without pressing the shift key , easy and faster ,
+
+
+## you can use special keys on the keyboard without pressing the shift key Faster, more productivity,
 # How to Install AutoHotkey
 
 Before you can use cool AHK scripts or make your own, you'll need to install AutoHotkey on your system.
