@@ -1,4 +1,4 @@
-# Use-just-special-characters-without-shift-key-on-keyboard
+# Use just special characters without shift key on keyboard
 ## you can use special keys on keyboard without pressing shift key , easy and faster ,
 # How to Install AutoHotkey
 
@@ -18,20 +18,23 @@ To create a new AutoHotkey script, right-click anywhere on your desktop (or wher
 
 >Note that you can also open your text editor, type up an AutoHotkey script, and save it as a file ending in .ahk to achieve the same result. Just make sure it has the right file extension!
 
-**3-copy that cods on : [use sepcial characters.ahk](https://github.com/Masoud2025/Use-just-special-characters-without-shift-key-on-keyboard/blob/main/use%20sepcial%20characters.ahk)**
+## **copy that cods on : [use sepcial characters.ahk](https://github.com/Masoud2025/Use-just-special-characters-without-shift-key-on-keyboard/blob/main/use%20sepcial%20characters.ahk)**
 
 
+## Run Script
 
-5-To run a script, simply double-click on it and it will go into effect. However, **you'll probably want some of these scripts to run as soon as you boot your computer so you don't have to start them manually every time.**
+To run a script, simply double-click on it and it will go into effect. However, **you'll probably want some of these scripts to run as soon as you boot your computer so you don't have to start them manually every time.**
 To do so, copy and paste the .ahk files into your Startup folder. You can get there easily by typing shell:startup into the Start menu. Otherwise, browse to the following location:
 
 >@C:\Users\[USERNAME]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/AutoHotkey-Script-Startup-Windows.png?q=50&fit=crop&w=1500&dpr=1.5)
 
-_4-run the script and enjoy (:_
+
 
 you can do any customization on youre keyborad like when tap on < typed tow <> on youre screen
 and everything else.
 
 you can see some another usefull aoutohotkey scripts on [10 Cool AutoHotkey Scripts ](https://www.makeuseof.com/tag/10-cool-autohotkey-scripts-make/)
+
+_run the scripts and enjoy (:_
